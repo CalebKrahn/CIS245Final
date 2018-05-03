@@ -8,7 +8,7 @@ This app is used to determine whether you need to take your garbage out or not. 
   
 ## Code  
 ### First Activity
-'''
+```
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.content.Intent
@@ -46,9 +46,9 @@ class MainActivity : AppCompatActivity() {
         })
     }
 }
-'''
+```
 ### Second Activity
-'''
+```
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -77,4 +77,4 @@ class Main2Activity : AppCompatActivity() {
         }
     }
 }
-'''
+```
